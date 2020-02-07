@@ -33,7 +33,7 @@ public class Alertpopuphandle {
 		System.out.println(alert.getText());  //by using alert.getText() we can read text from alert.
 		
 		String text =alert.getText();
-		alert.
+		
 		if(text.equals("Please enter a valid user name"))
 		System.out.println("correct alert msg");
 		else
